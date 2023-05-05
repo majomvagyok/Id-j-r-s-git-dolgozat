@@ -4,6 +4,7 @@
 body
 {
 	background-size:100% auto;
+	background-image: url(background.jpg);
 }
 
 #keret
@@ -12,6 +13,7 @@ body
 	left:20%;
 	top:5%;
 	box-shadow: 10px -5px 20px 0px rgba(0,0,0,0.5);
+	padding: 2%;
 }
 
 p
