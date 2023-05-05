@@ -5,7 +5,7 @@ body
 {
 	background-size:100% auto;
 	background-image: url(background.jpg);
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	line-height: 1.5em;
 }
@@ -59,7 +59,7 @@ input
 }
 
 h1, h2{
-	background-color: #243f84;
+	color: #243f84;
 	text-transform: uppercase;
 }
 
