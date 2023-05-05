@@ -76,3 +76,7 @@ dt{
 	text-decoration: underline;
 }
 
+#fel{
+	float: right;
+	width: 5vw;
+}
