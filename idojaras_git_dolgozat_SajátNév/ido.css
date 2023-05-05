@@ -60,3 +60,11 @@ h1, h2{
 	background-color: #243f84;
 	text-transform: uppercase;
 }
+
+.szurke{
+	font-size: large;
+	text-align: center;
+	color:  #808183;
+	font-size: bold;
+	text-decoration: none;
+}
