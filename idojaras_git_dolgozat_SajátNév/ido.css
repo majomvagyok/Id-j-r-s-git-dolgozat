@@ -81,6 +81,6 @@ dt{
 	width: 5vw;
 }
 
-input{
+input[type="text"]{
 	background-color:  #808183;
 }
